@@ -2,6 +2,8 @@
 
 Real-time photon counting software for the FLIR BFS-U3-04S2M-C camera using EMVA 1288 calibrated conversion parameters.
 
+![Photon Count Monitor](assets/gui.png)
+
 ## Getting Started
 
 ### Prerequisites
