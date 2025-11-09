@@ -43,3 +43,10 @@ source .venv/bin/activate
 ```bash
 uv pip install -r requirements.txt
 ```
+
+## Usage
+
+Run the photon counter:
+```bash
+uv run photon_counter.py
+```
