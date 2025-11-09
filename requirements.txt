@@ -36,7 +36,7 @@ pyqtgraph==0.13.7
 python-dateutil==2.9.0.post0
 pyzmq==27.1.0
 six==1.17.0
-spinnaker-python @ file:///Users/thomasribeiro/code/spinnaker_python-4.1.0.172-cp310-cp310-macosx_13_0_arm64/spinnaker_python-4.1.0.172-cp310-cp310-macosx_13_0_arm64.whl
+./spinnaker_python-4.1.0.172-cp310-cp310-macosx_13_0_arm64.whl
 stack-data==0.6.3
 tornado==6.5.2
 traitlets==5.14.3
